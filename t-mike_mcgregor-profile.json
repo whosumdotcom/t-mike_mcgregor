@@ -1,0 +1,45 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T21:37:12Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:mike-mcgregor"
+    },
+    {
+      "Claim": "t:mike_mcgregor"
+    },
+    {
+      "Claim": "yt:@mike_mcgregor"
+    },
+    {
+      "Claim": "spout:mike_mcgregor"
+    },
+    {
+      "Claim": "post:mike_mcgregor"
+    },
+    {
+      "Claim": "mdon:@mike_mcgregor@techhub.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "8d30934c8bffc452637bf599",
+    "Timestamp": "2023-04-06T23:26:38Z",
+    "Signature": "242cbb6a9b25a074a02f00b92c613743a7991a23bea6c1832a888eb7c015d0e2a7862cc9f8f81ddb2f207e665c1ffd4439a46dae625501ed1cf9a244ff09a523a985eb87380215866fa451675438c29493b1bee9e2adcfde5f423183dc695bc0565bd1ed19ee75a53b42132e60c11b873526c09f19c356e7d7fd3d4e9ee078b5f1eb02eb095721f707db722c7da88734a884060a139f0aa14fb9da26d69a0196d46b9b75c0c5bc37c27254129f4410d56d5cc22e5f6fe1975d2e772589091d0efd4652077e57fba52346a9eec3fdc460f9721cdb5d2aec19b695ebf1f015c675a1868a817583d6963b4a9934c32d79b51972bc39bffac15b67161e6288f33586"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "af9c8762c66e9d5e8249800c523bbab2093641d3c8f0b97e546b91974f9850d1",
+  "ContentToHash": "v1|gh:mike-mcgregor,mdon:@mike_mcgregor@techhub.social,med:no-account,pat:no-account,post:mike_mcgregor,spout:mike_mcgregor,ss:no-account,t:mike_mcgregor,yt:@mike_mcgregor|2023-04-06T21:37:12Z"
+}
